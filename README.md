@@ -4,7 +4,7 @@ A responsive, browser-based music player built with **HTML, CSS, and vanilla Jav
 
 ![Music Player Screenshot](screenshot.png)
 
-**Live Demo:** [View it here](YOUR-GITHUB-PAGES-LINK)
+**Live Demo:** [View it here](https://sky5532.github.io/CodeAlpha_Music-Player/))
 
 ---
 
